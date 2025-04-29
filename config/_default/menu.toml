@@ -22,3 +22,11 @@ url = "https://ratala321.itch.io/"
 
 [social.params]
 icon = "brand-itchio"
+
+[[social]]
+identifier = "rss"
+name = "rss"
+url = "http://localhost:1313/index.xml"
+
+[social.params]
+icon = "rss"
