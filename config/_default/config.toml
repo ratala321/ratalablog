@@ -16,3 +16,8 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+# For github pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
