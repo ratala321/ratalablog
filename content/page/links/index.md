@@ -8,7 +8,7 @@ links:
   - title: itch.io
     description: My itchio account.
     website: https://ratala321.itch.io/
-    image: brand-itchio.svg
+    image: ./brand-itchio.svg
 
 menu:
   main:
