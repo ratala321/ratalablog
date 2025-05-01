@@ -26,7 +26,7 @@ icon = "brand-itchio"
 [[social]]
 identifier = "rss"
 name = "rss"
-url = "http://localhost:1313/index.xml"
+url = "https://ratala321.github.io/index.xml"
 
 [social.params]
 icon = "rss"
