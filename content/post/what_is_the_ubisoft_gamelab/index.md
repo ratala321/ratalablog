@@ -35,23 +35,22 @@ the same day the teams were recquired to be confirmed.
 
 It was a butthead decision, but the teacher responsible for the
 process was super comprehensive. We were originally 3 when we talked to him.
-So I started my search for 5 other members. (Thank you again Alex)
+So I started my search for 5 other members.
 
 The first 2 others were pretty easy to find, just two others (great)
-programmer friends (s/o Anne-Sophie et Nico). But now, I had to find artists
-and a designer.
+programmer friends. But now, I had to find artists and a designer.
 
 I was spamming email all over the place. I was so lucky to stumble upon
-Lorick and Samy as artists, and Malo as a designer.
+two great artists, and one nice designer.
 
 You see, there isn't a ton of game universites with a program
-specialized in video game art. It just so happened that the (NAD)[https://www.nad.ca/]
+specialized in video game art. It just so happened that the [NAD](https://www.nad.ca/)
 was just in front of my university. It just so happened too that a lot
 of people in this school want to do the UbiGamelab, but can't
 (especially freshmans).
 
 Thus thee found the freshman art makers and the game designer (he was from
-(UQAT)[https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/] though, but the same logic applies).
+[UQAT](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/) though, but the same logic applies).
 
 We were very inexperienced and one of the constraints was to make a
 online multiplayer game. It was a grind, managing both finals and
@@ -66,8 +65,8 @@ I'm still very grateful to my team and my mentors for this journey.
 
 I got to be honest, the stars kind of aligned for me to participate in
 the 2025 edition. I was encouraged by my teacher, I had made a promise to
-another participant (Got you Loïc), and Samy, one of the artist that I
-worked with during the 2024 edition, just came to me with 4 of his friends.
+another participant, and one of the artist that I
+worked with during the 2024 edition just came to me with 4 of his friends.
 
 Let's say that it was _wayyyy_ easier to make a team this time.
 I didn't get to choose the programmers I was going to work with this time,
