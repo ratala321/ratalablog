@@ -2,7 +2,7 @@
 title: "What is the Ubisoft Gamelab, and why it is important."
 description: A reflection on my experience during the Ubisoft Gamelab.
 date: 2025-05-04T20:07:27-04:00
-image:
+image: CUBI_Banner.jpg
 math:
 license:
 hidden: false
@@ -52,6 +52,8 @@ of people in this school want to do the UbiGamelab, but can't
 _Thus thee found the freshman art makers and the game designer_.
 <br>(he was from [**UQAT**](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/) though, but the same logic applies).
 
+<img src="foule_gamelab_2024.png" alt="Picture of the 2024 edition crowd" width="80%" style="display:block;margin-left:auto; margin-right:auto"/>
+
 We were very inexperienced and one of the constraints was to make a
 online multiplayer game. It was a grind, managing both finals and
 the last minute sprint to ship the game. It was more importantly a blast !
@@ -76,6 +78,8 @@ grateful that I had the chance to work with such **great teamates**.
 This time around though, we were balling. We chose Unreal 5 for our engine,
 as the artists were more used to it. The team had more overall gamedev and
 jams experience.
+
+<img src="foule_gamelab_2025.jpg" alt="Picture of the 2025 edition crowd" width="80%" style="display:block;margin-left:auto; margin-right:auto"/>
 
 It ended up as a smoother and more productive process. We felt really
 proud about the artistic direction and the amount polish we had achieved.
