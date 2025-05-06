@@ -4,6 +4,8 @@ description: A reflection on my experience during the Ubisoft Gamelab.
 date: 2025-05-04T20:07:27-04:00
 image: CUBI_Banner.jpg
 math:
+categories:
+    - Slice of Life
 license:
 hidden: false
 comments: true
