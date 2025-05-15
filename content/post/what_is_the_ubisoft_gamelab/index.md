@@ -25,7 +25,7 @@ On top of that, each team has **two mentors** who work at Ubisoft. Very useful.
 
 In terms of scale, the 2025 Gamelab had **206 participants** shared by **12
 universities**. The Gamelab ends with a boot, followed by a gala, where
-prize based on 9 categories are given.
+prizes based on 9 categories are given.
 
 ## My 2024 participation
 
@@ -36,13 +36,13 @@ better in that regard), and I basically learned about the 2024 Gamelab
 **the same day** the teams were required to be confirmed.
 
 It was a butthead decision, but the teacher responsible for the
-process was super comprehensive. We were originally 3 when we talked to him.
+process was super understanding. We were originally 3 when we talked to him.
 So I started my search for 5 other members.
 
-The first 2 others were pretty easy to find, just two others (great)
+The first 2 others were pretty easy to find, just two other (great)
 programmer friends. But now, I had to find artists and a designer.
 
-I was spamming email all over the place. I was so lucky to stumble upon
+I was spamming emails all over the place. I was so lucky to stumble upon
 two great artists, and one nice designer.
 
 You see, there isn't a ton of game universities with a program
@@ -51,7 +51,7 @@ was just in front of my university. It just so happened that a lot
 of people in this school want to do the UbiGamelab, but can't
 (especially freshmen).
 
-_Thus, thee found the freshman art makers and the game designer_.
+_Thus, we found the freshman art makers and the game designer_.
 <br>(he was from [**UQAT**](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/) though, but the same logic applies).
 
 <img src="foule_gamelab_2024.png" alt="Picture of the 2024 edition crowd" width="80%" style="display:block;margin-left:auto; margin-right:auto"/>
@@ -67,9 +67,9 @@ I'm still **very** grateful to my team and my mentors for this journey.
 
 ## My 2025 participation
 
-I got to be honest, the stars kind of aligned for me to participate in
+I have to be honest, the stars kind of aligned for me to participate in
 the 2025 edition. I was encouraged by my teacher, I had made a promise to
-another participant, and one of the artist, that I
+another participant, and one of the artists, that I
 worked with during the 2024 edition, just came to me with 4 of his friends.
 
 Let's say that it was _wayyyy_ easier to make a team this time.
@@ -98,8 +98,8 @@ Not only that, it's not everyday we can work on a big project
 with specialized people as a student. Working alongside designers and
 artists is a very different **(much better)** experience.
 
-Let's be honest, it kind of look good on the resume. I think it has
-helped me to get into a master in game programming. A discussion for
+Let's be honest, it kind of looks good on the resume. I think it has
+helped me to get into a master's in game programming. A discussion for
 another time.
 
 It is a learning opportunity, for both hard skills and soft skills.
@@ -130,17 +130,17 @@ help. **Build often**, and send it to everyone on the team. Test the game
 during your meeting.
 
 As for the mentors, you should meet them at the same time. Each will bounce
-back on what the other said, and it would be more fruitful that way.
+back on what the other said, and it will be more fruitful that way.
 
 Scope management will hinder or bring your success. Be flexible, and
 pick your battle. Feedback is good based on the content **and** the timing
 of when it is given.
 
 Make a retrospective at the end of the project. You can do it on your own,
-but with your team would be great. It is very educational, as you will
-get to know blind spots
+but with your team it would be great. It is very educational, as you will
+get to know blind spots.
 
-If possible, choosing one or two easier class might help. You still
+If possible, choosing one or two easier classes might help. You still
 have to be a full-time student to participate.
 
 ## Conclusion

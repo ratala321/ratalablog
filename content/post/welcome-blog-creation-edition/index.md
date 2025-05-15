@@ -14,8 +14,8 @@ draft: false
 
 My name is **Raphaël**, and I'm currently finishing my [CS degree at UQÀM](https://etudier.uqam.ca/programme?code=7316).
 
-Not only I always thought that blog were _couwl_, I find gamedev related blog and devlog to be even _couwler_.
-That's one of the many reasons pushing me to write markdown on a tuesday night.
+Not only have I always thought that blogs were _couwl_, I find gamedev related blogs and devlogs to be even _couwler_.
+That's one of the many reasons pushing me to write markdown on a Tuesday night.
 
 The thing is, I found there was a lack for a particular type of blog, then
 it was settled that I had to take care of the matter.
@@ -25,10 +25,10 @@ it was settled that I had to take care of the matter.
 The main topic of this blog is gamedev, more precisely **gameplay programming**.
 
 We can find a lot of blogs about many topics in gamedev, but I found it
-way to hard to look for blogs centered around gameplay programming, despite
-being one of the most important pillar in game development.
+way too hard to look for blogs centered around gameplay programming, despite
+being one of the most important pillars in game development.
 
-Also, I found that most bloggers were super experienced principal expert, which I love.<br>
+Also, I found that most bloggers were super experienced principal experts, which I love.<br>
 _But_, I also think that having a blog hosted by another upcoming dev, dealing with
 both studies and game development could be a nice refresher.
 
