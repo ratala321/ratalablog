@@ -4,12 +4,12 @@ description: I explain how nice it is to empower our designers and artists by ge
 date: 2025-05-06T12:21:27-04:00
 categories:
     - Technical Explanation
-tags: 
+tags:
     - Quickly Explained
     - Unity
     - Unreal
     - Data Oriented
-image: 
+image:
 math:
 license:
 hidden: false
@@ -27,7 +27,7 @@ DA or SO.
 
 It's nice for them because :
  * It's way **simpler**.
- * All related data are **bundle** together.
+ * All related data are **bundled** together.
  * They can make "backups" of the file in order to **test new things**
  and safely come back to the previous values.
 
