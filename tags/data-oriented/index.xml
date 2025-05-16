@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Oriented on All Things Gameplay</title><link>https://demo.stack.jimmycai.com/tags/data-oriented/</link><description>Recent content in Data Oriented on All Things Gameplay</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 May 2025 12:21:27 -0400</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/data-oriented/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Assets and Scriptable Objects as First Stepping Stones toward Data Oriented Development</title><link>https://demo.stack.jimmycai.com/p/data-assets-and-scriptable-objects-as-first-stepping-stones-toward-data-oriented-development/</link><pubDate>Tue, 06 May 2025 12:21:27 -0400</pubDate><guid>https://demo.stack.jimmycai.com/p/data-assets-and-scriptable-objects-as-first-stepping-stones-toward-data-oriented-development/</guid><description>&lt;h2 id="how-the-usage-daso-can-help-your-development-process">How the usage DA/SO can help your development process
+&lt;/h2>&lt;p>I frequently use &lt;a class="link" href="https://docs.unity3d.com/6000.0/Documentation/Manual/class-ScriptableObject.html" target="_blank" rel="noopener"
+>Scriptable Objects&lt;/a> in Unity and &lt;a class="link" href="https://dev.epicgames.com/documentation/en-us/unreal-engine/data-assets-in-unreal-engine" target="_blank" rel="noopener"
+>Data Assets&lt;/a> in Unreal to help the design team.&lt;/p>
+&lt;p>Essentially, instead of telling them to modify some variable in the
+code, I tell them to modify some variable in a specific file, either the
+DA or SO.&lt;/p>
+&lt;p>It&amp;rsquo;s nice for them because :&lt;/p>
+&lt;ul>
+&lt;li>It&amp;rsquo;s way &lt;strong>simpler&lt;/strong>.&lt;/li>
+&lt;li>All related data are &lt;strong>bundled&lt;/strong> together.&lt;/li>
+&lt;li>They can make &amp;ldquo;backups&amp;rdquo; of the file in order to &lt;strong>test new things&lt;/strong>
+and safely come back to the previous values.&lt;/li>
+&lt;/ul>
+&lt;p>It&amp;rsquo;s nice for me because I can focus on &lt;strong>developing new systems&lt;/strong>, and I can
+easily make changes to the codebase &lt;strong>without worrying&lt;/strong> about the designers
+getting lost after all that Friday night refactoring.&lt;/p>
+&lt;p>My workflow goes on like this :&lt;/p>
+&lt;ul>
+&lt;li>First, I program the system.&lt;/li>
+&lt;li>Then, I abstract the data used into a DA/SO.&lt;/li>
+&lt;li>Finally, I explain to the designer where is the new DA/SO and what it is
+responsible for.&lt;/li>
+&lt;/ul>
+&lt;p>It&amp;rsquo;s simple, and can have many advantages even for the &lt;strong>gameplay itself&lt;/strong>.
+For example, you might want to have an easy or hard mode. Just make an
+easy and a hard SO/DA. Just feed the right data.&lt;/p>
+&lt;p>In that regard, I think it is a good first step into data driven gameplay,
+by enabling designers and artists to customize gameplay elements
+just by changing data.&lt;/p></description></item></channel></rss>
