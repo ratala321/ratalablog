@@ -51,7 +51,7 @@ was just in front of my university. It just so happened that a lot
 of people in this school want to do the UbiGamelab, but can't
 (especially freshmen).
 
-_Thus, we found the freshman art makers and the game designer_.
+_Thus, thee found the freshman art makers and the game designer_.
 <br>(he was from [**UQAT**](https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/) though, but the same logic applies).
 
 <img src="foule_gamelab_2024.png" alt="Picture of the 2024 edition crowd" width="80%" style="display:block;margin-left:auto; margin-right:auto"/>
@@ -67,7 +67,7 @@ I'm still **very** grateful to my team and my mentors for this journey.
 
 ## My 2025 participation
 
-I have to be honest, the stars kind of aligned for me to participate in
+I got to be honest, the stars kind of aligned for me to participate in
 the 2025 edition. I was encouraged by my teacher, I had made a promise to
 another participant, and one of the artists, that I
 worked with during the 2024 edition, just came to me with 4 of his friends.
