@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on All Things Gameplay</title><link>https://demo.stack.jimmycai.com/post/</link><description>Recent content in Posts on All Things Gameplay</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 21:47:24 -0400</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Cereal Time Blocking: Where Flexibility Meets Structure</title><link>https://demo.stack.jimmycai.com/p/cereal-time-blocking-where-flexibility-meets-structure/</link><pubDate>Sat, 17 May 2025 21:47:24 -0400</pubDate><guid>https://demo.stack.jimmycai.com/p/cereal-time-blocking-where-flexibility-meets-structure/</guid><description>&lt;h1 id="how-i-manage-my-tasks-and-time-for-both-school-and-gamedev">How I manage my tasks and time for both school and gamedev
+&lt;/h1>&lt;p>I&amp;rsquo;ve tried many ways to organize my work over my life, and today I will
+share a flexible yet thoughtful methodology. &lt;em>In my opinion at least.&lt;/em>&lt;/p>
+&lt;p>The first step is to time block tasks.
+Time blocking means planning a task over a specific period of time.&lt;/p>
+&lt;p>The importance of time blocking is to &lt;strong>not overbook&lt;/strong> yourself. It&amp;rsquo;s also
+a good practice for &lt;strong>estimating&lt;/strong> workload, and &lt;strong>measuring&lt;/strong> whether or not you&amp;rsquo;re
+late on your schedule on a daily basis.&lt;/p>
+&lt;p>You may ask: &amp;ldquo;Is that all?&amp;rdquo;.&lt;br>
+The thing is, time blocking lacks flexibility. You have an urgency ?
+&lt;strong>Poof&lt;/strong>, time blocking is cooked.&lt;/p>
+&lt;p>If you did time blocking well, you know how much time you want to work, and
+which tasks you want to do. Now, it doesn&amp;rsquo;t matter really much &lt;strong>exactly&lt;/strong>
+when a task is completed &lt;em>usually&lt;/em>.&lt;/p>
+&lt;p>That&amp;rsquo;s when the serial planning becomes &lt;strong>cereal&lt;/strong> instead. By taking into account
+&lt;em>mishaps&lt;/em>.&lt;/p>
+&lt;p>Also, it lowers the tendency of the mind to over optimize your
+schedule for no reason. For me, it also feels more natural, as I find it
+stressful and non-natural to &lt;strong>always&lt;/strong> follow strictly your schedule.&lt;/p>
+&lt;p>Simply put, time blocking task gives you an overview of the workload at hand, and keeps you on track.&lt;br>
+Because you can&amp;rsquo;t plan for everything, it&amp;rsquo;s better sometimes to approximately follow the schedule, and change the order of tasks.&lt;/p>
+&lt;p>TLDR; Put the milk before the cereal.&lt;/p></description></item><item><title>Data Assets and Scriptable Objects as First Stepping Stones toward Data Oriented Development</title><link>https://demo.stack.jimmycai.com/p/data-assets-and-scriptable-objects-as-first-stepping-stones-toward-data-oriented-development/</link><pubDate>Tue, 06 May 2025 12:21:27 -0400</pubDate><guid>https://demo.stack.jimmycai.com/p/data-assets-and-scriptable-objects-as-first-stepping-stones-toward-data-oriented-development/</guid><description>&lt;h2 id="how-the-usage-daso-can-help-your-development-process">How the usage DA/SO can help your development process
+&lt;/h2>&lt;p>I frequently use &lt;a class="link" href="https://docs.unity3d.com/6000.0/Documentation/Manual/class-ScriptableObject.html" target="_blank" rel="noopener"
+>Scriptable Objects&lt;/a> in Unity and &lt;a class="link" href="https://dev.epicgames.com/documentation/en-us/unreal-engine/data-assets-in-unreal-engine" target="_blank" rel="noopener"
+>Data Assets&lt;/a> in Unreal to help the design team.&lt;/p>
+&lt;p>Essentially, instead of telling them to modify some variable in the
+code, I tell them to modify some variable in a specific file, either the
+DA or SO.&lt;/p>
+&lt;p>It&amp;rsquo;s nice for them because :&lt;/p>
+&lt;ul>
+&lt;li>It&amp;rsquo;s way &lt;strong>simpler&lt;/strong>.&lt;/li>
+&lt;li>All related data are &lt;strong>bundled&lt;/strong> together.&lt;/li>
+&lt;li>They can make &amp;ldquo;backups&amp;rdquo; of the file in order to &lt;strong>test new things&lt;/strong>
+and safely come back to the previous values.&lt;/li>
+&lt;/ul>
+&lt;p>It&amp;rsquo;s nice for me because I can focus on &lt;strong>developing new systems&lt;/strong>, and I can
+easily make changes to the codebase &lt;strong>without worrying&lt;/strong> about the designers
+getting lost after all that Friday night refactoring.&lt;/p>
+&lt;p>My workflow goes on like this :&lt;/p>
+&lt;ul>
+&lt;li>First, I program the system.&lt;/li>
+&lt;li>Then, I abstract the data used into a DA/SO.&lt;/li>
+&lt;li>Finally, I explain to the designer where is the new DA/SO and what it is
+responsible for.&lt;/li>
+&lt;/ul>
+&lt;p>It&amp;rsquo;s simple, and can have many advantages even for the &lt;strong>gameplay itself&lt;/strong>.
+For example, you might want to have an easy or hard mode. Just make an
+easy and a hard SO/DA. Just feed the right data.&lt;/p>
+&lt;p>In that regard, I think it is a good first step into data driven gameplay,
+by enabling designers and artists to customize gameplay elements
+just by changing data.&lt;/p></description></item><item><title>What is the Ubisoft Gamelab, and why it is important.</title><link>https://demo.stack.jimmycai.com/p/what-is-the-ubisoft-gamelab-and-why-it-is-important./</link><pubDate>Sun, 04 May 2025 20:07:27 -0400</pubDate><guid>https://demo.stack.jimmycai.com/p/what-is-the-ubisoft-gamelab-and-why-it-is-important./</guid><description>&lt;img src="https://demo.stack.jimmycai.com/p/what-is-the-ubisoft-gamelab-and-why-it-is-important./CUBI_Banner.jpg" alt="Featured image of post What is the Ubisoft Gamelab, and why it is important." />&lt;h2 id="about-the-gamelab">About the Gamelab
+&lt;/h2>&lt;p>The Gamelab is essentially a &lt;strong>game jam spanning across 10 weeks&lt;/strong>.
+Usually, a theme and 3 constraints are imposed on the contenders.&lt;/p>
+&lt;p>Each team can have up to &lt;strong>8 members&lt;/strong>. Also, all the teams must be associated
+with a university in Québec (the province, not the city). Though members
+can be from other universities too, which is great !&lt;/p>
+&lt;p>On top of that, each team has &lt;strong>two mentors&lt;/strong> who work at Ubisoft. Very useful.&lt;/p>
+&lt;p>In terms of scale, the 2025 Gamelab had &lt;strong>206 participants&lt;/strong> shared by &lt;strong>12
+universities&lt;/strong>. The Gamelab ends with a boot, followed by a gala, where
+prizes based on 9 categories are given.&lt;/p>
+&lt;h2 id="my-2024-participation">My 2024 participation
+&lt;/h2>&lt;p>I&amp;rsquo;ve participated in the 2024 and the 2025 edition of the Ubisoft Gamelab.&lt;/p>
+&lt;p>My university is not very gamedev oriented (even though things are getting
+better in that regard), and I basically learned about the 2024 Gamelab
+&lt;strong>the same day&lt;/strong> the teams were required to be confirmed.&lt;/p>
+&lt;p>It was a butthead decision, but the teacher responsible for the
+process was super understanding. We were originally 3 when we talked to him.
+So I started my search for 5 other members.&lt;/p>
+&lt;p>The first 2 others were pretty easy to find, just two other (great)
+programmer friends. But now, I had to find artists and a designer.&lt;/p>
+&lt;p>I was spamming emails all over the place. I was so lucky to stumble upon
+two great artists, and one nice designer.&lt;/p>
+&lt;p>You see, there isn&amp;rsquo;t a ton of game universities with a program
+specialized in video game art. It just so happened that the &lt;a class="link" href="https://www.nad.ca/" target="_blank" rel="noopener"
+>&lt;strong>NAD&lt;/strong>&lt;/a>
+was just in front of my university. It just so happened that a lot
+of people in this school want to do the UbiGamelab, but can&amp;rsquo;t
+(especially freshmen).&lt;/p>
+&lt;p>&lt;em>Thus, thee found the freshman art makers and the game designer&lt;/em>.
+&lt;br>(he was from &lt;a class="link" href="https://www.uqat.ca/etudes/creation-et-nouveaux-medias/baccalaureat-en-creation-de-jeux-video/" target="_blank" rel="noopener"
+>&lt;strong>UQAT&lt;/strong>&lt;/a> though, but the same logic applies).&lt;/p>
+&lt;img src="foule_gamelab_2024.png" alt="Picture of the 2024 edition crowd" width="80%" style="display:block;margin-left:auto; margin-right:auto"/>
+&lt;p>We were very inexperienced and one of the constraints was to make a
+online multiplayer game. It was a grind, managing both finals and
+the last minute sprint to ship the game. It was more importantly a blast !&lt;/p>
+&lt;p>We did end up being nominated in the game design category, which was
+unexpected and very appreciated.&lt;/p>
+&lt;p>I&amp;rsquo;m still &lt;strong>very&lt;/strong> grateful to my team and my mentors for this journey.&lt;/p>
+&lt;h2 id="my-2025-participation">My 2025 participation
+&lt;/h2>&lt;p>I got to be honest, the stars kind of aligned for me to participate in
+the 2025 edition. I was encouraged by my teacher, I had made a promise to
+another participant, and one of the artists, that I
+worked with during the 2024 edition, just came to me with 4 of his friends.&lt;/p>
+&lt;p>Let&amp;rsquo;s say that it was &lt;em>wayyyy&lt;/em> easier to make a team this time.
+I didn&amp;rsquo;t get to choose the programmers I was going to work with this time,
+and it was for the better. Both of them are great programmers, and I&amp;rsquo;m
+grateful that I had the chance to work with such &lt;strong>great teammates&lt;/strong>.&lt;/p>
+&lt;p>This time around though, we were balling. We chose Unreal 5 for our engine,
+as the artists were more used to it. The team had more overall gamedev and
+jams experience.&lt;/p>
+&lt;img src="foule_gamelab_2025.jpg" alt="Picture of the 2025 edition crowd" width="80%" style="display:block;margin-left:auto; margin-right:auto"/>
+&lt;p>It ended up as a smoother and more productive process. We felt really
+proud about the artistic direction and the amount of polish we had achieved.&lt;/p>
+&lt;p>Despite that, we sadly didn&amp;rsquo;t turn out to win. Let&amp;rsquo;s say it was more of a
+critical success than a commercial one.&lt;/p>
+&lt;h2 id="positive-outcomes">Positive outcomes
+&lt;/h2>&lt;p>You will make friends. Great friends. It&amp;rsquo;s a good opportunity to connect
+with current / future industry workers.&lt;/p>
+&lt;p>Not only that, it&amp;rsquo;s not everyday we can work on a big project
+with specialized people as a student. Working alongside designers and
+artists is a very different &lt;strong>(much better)&lt;/strong> experience.&lt;/p>
+&lt;p>Let&amp;rsquo;s be honest, it kind of looks good on the resume. I think it has
+helped me to get into a master&amp;rsquo;s in game programming. A discussion for
+another time.&lt;/p>
+&lt;p>It is a learning opportunity, for both hard skills and soft skills.&lt;/p>
+&lt;p>Lastly, it is super &lt;strong>fun&lt;/strong>.&lt;/p>
+&lt;h2 id="negative-outcomes">Negative outcomes
+&lt;/h2>&lt;p>The Gamelab is a &lt;strong>huge&lt;/strong> time investment and it will impact your grades.&lt;/p>
+&lt;p>It can be very stressful at times, as y&amp;rsquo;all as a team are very likely
+to have some hurdles.&lt;/p>
+&lt;p>By the way, I don&amp;rsquo;t think the Gamelab is a good place
+to acquire new knowledge. It&amp;rsquo;s more appropriate to test
+the knowledge you already have. In short, I would advise &lt;strong>against&lt;/strong>
+learning gamedev for the first time there.&lt;/p>
+&lt;h2 id="advice">Advice
+&lt;/h2>&lt;p>I think communication is key. As basic as it might sound, getting to know
+your colleagues before and during the competition will grease the engine.&lt;/p>
+&lt;p>For a less basic advice, the prototype is a way to communicate
+with your colleagues. Everybody will have an idea about how the game
+is, being able to test ideas and show some concrete examples will greatly
+help. &lt;strong>Build often&lt;/strong>, and send it to everyone on the team. Test the game
+during your meeting.&lt;/p>
+&lt;p>As for the mentors, you should meet them at the same time. Each will bounce
+back on what the other said, and it will be more fruitful that way.&lt;/p>
+&lt;p>Scope management will hinder or bring your success. Be flexible, and
+pick your battle. Feedback is good based on the content &lt;strong>and&lt;/strong> the timing
+of when it is given.&lt;/p>
+&lt;p>Make a retrospective at the end of the project. You can do it on your own,
+but with your team it would be great. It is very educational, as you will
+get to know blind spots.&lt;/p>
+&lt;p>If possible, choosing one or two easier classes might help. You still
+have to be a full-time student to participate.&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>I think it&amp;rsquo;s important to talk about such subjects, as not everybody knows
+about such events, or the possibility to make such events.&lt;/p>
+&lt;p>I &lt;strong>highly&lt;/strong> suggest anybody invested in gamedev to participate. If you
+don&amp;rsquo;t have something similar in your area, use the Gamelab as an example
+to your local companies ! Employees love to give back to the community,
+it&amp;rsquo;s great for the brand, and maybe it&amp;rsquo;s good to find new hires.&lt;/p>
+&lt;p>Hope it was a good read !&lt;/p></description></item><item><title>Welcome to my game programming blog !</title><link>https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/</link><pubDate>Tue, 29 Apr 2025 18:47:27 -0400</pubDate><guid>https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/</guid><description>&lt;h2 id="bonjour--hi-">Bonjour / Hi !
+&lt;/h2>&lt;p>My name is &lt;strong>Raphaël&lt;/strong>, and I&amp;rsquo;m currently finishing my &lt;a class="link" href="https://etudier.uqam.ca/programme?code=7316" target="_blank" rel="noopener"
+>CS degree at UQÀM&lt;/a>.&lt;/p>
+&lt;p>Not only have I always thought that blogs were &lt;em>couwl&lt;/em>, I find gamedev related blogs and devlogs to be even &lt;em>couwler&lt;/em>.
+That&amp;rsquo;s one of the many reasons pushing me to write markdown on a Tuesday night.&lt;/p>
+&lt;p>The thing is, I found there was a lack for a particular type of blog, then
+it was settled that I had to take care of the matter.&lt;/p>
+&lt;h2 id="what-this-blog-is-about-">What this blog is about ?
+&lt;/h2>&lt;p>The main topic of this blog is gamedev, more precisely &lt;strong>gameplay programming&lt;/strong>.&lt;/p>
+&lt;p>We can find a lot of blogs about many topics in gamedev, but I found it
+way too hard to look for blogs centered around gameplay programming, despite
+being one of the most important pillars in game development.&lt;/p>
+&lt;p>Also, I found that most bloggers were super experienced principal experts, which I love.&lt;br>
+&lt;em>But&lt;/em>, I also think that having a blog hosted by another upcoming dev, dealing with
+both studies and game development could be a nice refresher.&lt;/p>
+&lt;p>TLDR; &lt;strong>gameplay programming&lt;/strong> with a little sugarcoat of slice of life and fun gaming facts.&lt;/p>
+&lt;h2 id="my-game-projects">My game projects
+&lt;/h2>&lt;p>Classified from the most recent to the oldest. Also, not including all game jams.&lt;/p>
+&lt;h3 id="urban-strikers">Urban Strikers
+&lt;/h3>&lt;p>A versus sport game with a visually &lt;em>Jet Set Radio&lt;/em> vibe and a gameplay-wise &lt;em>Rocket League&lt;/em> &amp;amp; &lt;em>Knockout City&lt;/em> vibe.&lt;br>
+I&amp;rsquo;ve mostly worked as a programmer on the gameloop, UI and player movement.&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/urbanstrikers_splitscreen.png"
+width="1823"
+height="1025"
+srcset="https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/urbanstrikers_splitscreen_hu_6ee2c82223a36c34.png 480w, https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/urbanstrikers_splitscreen_hu_edccad1864981049.png 1024w"
+loading="lazy"
+alt="Image of the game urban strikers. It has a horizontal splitscreen, with a player on top and bottom of the screen."
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The game is available for free on itchio : &lt;a class="link" href="https://ratala321.itch.io/urban-strikers" target="_blank" rel="noopener"
+>https://ratala321.itch.io/urban-strikers&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Unreal Engine&lt;/strong> was used to make this game. Also, it was made during the &lt;a class="link" href="https://montreal.ubisoft.com/en/our-commitments/education/game-lab-competition/" target="_blank" rel="noopener"
+>&lt;strong>2025 Ubisoft Gamelab&lt;/strong>&lt;/a>.&lt;/p>
+&lt;h3 id="dreamland-bastion">Dreamland bastion
+&lt;/h3>&lt;p>A turn-based tower defense online multiplayer game.&lt;br>
+I&amp;rsquo;ve mostly worked as a programmer on all things related online, the building system and the game loop.&lt;/p>
+&lt;p>&lt;img src="https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/dreamlandbastion-overview.png"
+width="1918"
+height="980"
+srcset="https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/dreamlandbastion-overview_hu_13ac0187b9f145af.png 480w, https://demo.stack.jimmycai.com/p/welcome-to-my-game-programming-blog/dreamlandbastion-overview_hu_347b6168b97095e.png 1024w"
+loading="lazy"
+alt="Image of the game dreamland bastion. We can see three side by side boards. The players are on different boards."
+class="gallery-image"
+data-flex-grow="195"
+data-flex-basis="469px"
+>&lt;/p>
+&lt;p>The game is available for free on itchio : &lt;a class="link" href="https://harnm.itch.io/dreamland-bastion" target="_blank" rel="noopener"
+>https://harnm.itch.io/dreamland-bastion&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Unity&lt;/strong> was used to make this game. It was made during the &lt;a class="link" href="https://montreal.ubisoft.com/en/our-commitments/education/game-lab-competition/2024-edition/" target="_blank" rel="noopener"
+>&lt;strong>2024 Ubisoft Gamelab&lt;/strong>&lt;/a>&lt;/p>
+&lt;h2 id="the-end">THE END
+&lt;/h2>&lt;p>Thank you for reading through my first blog post !&lt;/p>
+&lt;p>If you have any feedbacks, comments or just need to vent, reach me at my email : talaia.gamedev(at)pm.me&lt;/p></description></item></channel></rss>
